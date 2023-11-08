@@ -1,0 +1,13 @@
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\bin\Debug\Radovi.exe.config
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\bin\Debug\Radovi.exe
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\bin\Debug\Radovi.pdb
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\bin\Debug\mysql.data.dll
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\MainWindow.baml
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\App.g.cs
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi_MarkupCompile.cache
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi.g.resources
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi.Properties.Resources.resources
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi.csproj.GenerateResource.Cache
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi.exe
+C:\Users\Budimir Kovacevic\Desktop\Radovi\Radovi\obj\x86\Debug\Radovi.pdb
